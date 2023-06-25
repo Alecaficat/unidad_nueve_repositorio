@@ -1,0 +1,59 @@
+/*Punto*/
+body {
+    background-color: #fd94ec;
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+.p5_green_ul {
+    text-decoration: underline;
+    color: #008800;
+}
+
+.p5_red {
+    font-weight: bolder;
+    color: #ff0000;
+}
+
+#p5 {
+   text-decoration: underline overline; 
+}
+
+.grande { 
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.p5_azul {
+    color: #0000ff;
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+.p_rojo2 {
+    text-decoration: underline;
+    color: #ff0000;
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+.footer_nombre {
+    font-size: 16px;
+       margin-top: 20px;
+       margin-left: 20px;
+       padding-top: 10px;
+       color: #f73495;
+       font-weight: inherit;
+       position: relative;
+       z-index: 2;
+   }
+
+
+
+
+
+
+
+
+

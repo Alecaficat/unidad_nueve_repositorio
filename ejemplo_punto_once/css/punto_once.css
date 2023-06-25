@@ -1,0 +1,39 @@
+/*animacion numero uno*/
+.animacion_uno {
+font-size: 13px;
+width: 100px;
+height: 100px;
+position: relative;
+background-color: #ff00ff;
+animation-name: animacion_uno;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+}
+@keyframes animacion_uno {
+0% {background-color: #ff00c8; left:0px;}
+50% {background-color: #ea00ff; left:200px;}
+100% {background-color: #8c00ff; left:0px;}
+}
+/*animacion numero dos*/
+.animacion_dos {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color: red;
+    animation-name: animacion_dos;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate ;
+    }
+    @keyframes animacion_dos {
+    0% {background-color: red; left:0px; top:0px;}
+    25% {background-color: blue; left:0px; top:200px;}
+    50% {background-color: green; left:200px; top:200px;}
+    75% {background-color: yellow; left:200px; top:0px;}
+    100% {background-color: red; left:0px; top:0px;}
+    }
+.footer {
+    color: #ff00ff;
+    font-size: 12px;
+}

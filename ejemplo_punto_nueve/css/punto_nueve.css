@@ -1,0 +1,15 @@
+/*punto nueve*/
+.tabla_1 {
+    background-color: yellow;
+    border-bottom: dotted red;
+    border-collapse: collapse;
+}
+.tabla_1 th {
+    color: red;
+}
+.tabla_1 th,td {
+    border: 2px dotted black;
+}
+#negrita {
+    font-size: 40px;
+}
